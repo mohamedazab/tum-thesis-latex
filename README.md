@@ -2,7 +2,8 @@
 
 This is a LaTeX template created according to the guidelines for TUM informatics theses in SS 2013. **Always check the [current formatting guidelines][thesis-guidelines] before you hand in.** See [`build/main.pdf`][sample-pdf] for an example PDF created with this template.
 
-Note: Because of copyright considerations, TUM logos are not included in this template. Unfortunately, the logos are also not available on the MyTUM website anymore.
+the modifications here are adapted from
+https://www.overleaf.com/latex/templates/tum-thesis-for-informatics-template/ttjnzgmgvvxj
 
 Comments & contributions welcome!
 
@@ -16,7 +17,7 @@ If you are new to LaTeX, the [ShareLaTeX knowledge base][sharelatex-kb] or the [
 
 For additional hints, have a look at [the wiki][wiki]. If you still have problems with the template, feel free to [create an issue][issue]. For general LaTeX questions, use [TeX StackExchange][tex-se].
 
-## License
+## License 
 
 [![Creative Commons License][license-image]][license]
 
